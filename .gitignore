@@ -1,5 +1,5 @@
 tmp/
 *.html_old
-*.pnj_backup
+*.png_backup
 /Thumbs.db/
 .DS_Store
